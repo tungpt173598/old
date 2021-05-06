@@ -5,4 +5,7 @@ ted
 tem
 dag
 deg
+dug
 dig
+
+
