@@ -3,3 +3,6 @@ aet
 tea
 ted
 tem
+dag
+deg
+dig
